@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1pyVqUpv3rNXzXzMzrGw7rrbSglv686zHBA6a7j9Ab8=",
+  "Source": "WebApplicationMicroservice",
+  "BasePath": "_content/WebApplicationMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
